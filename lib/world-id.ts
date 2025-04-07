@@ -1,4 +1,4 @@
-import { IDKitWidget } from "@worldcoin/idkit"
+import { MiniKit } from '@worldcoin/minikit-js'
 import type { MiniAppWalletAuthSuccessPayload } from "@worldcoin/minikit-js"
 
 // World ID verification configuration
